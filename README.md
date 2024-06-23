@@ -11,10 +11,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Coming Soon                                   | Coming Soon                |
-| Coming Soon                                   | Coming Soon                |
-| Coming Soon                                   | Coming Soon                |
-| Coming Soon                                   | Coming Soon                |
+| Security Automation with Shuffle SOAR         | Coming Soon                |
+| Incident Response Planning and Execution      | Coming Soon                |
+| Case Management with TheHive                  | Coming Soon                |
+| Scripting and Automation for Threat Management| Coming Soon                |
 | Coming Soon                                   | Coming Soon                |
 | Coming Soon                                   | Coming Soon                |
 
@@ -44,5 +44,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Coming Soon
+- SOC Automation Project
 - Coming Soon
