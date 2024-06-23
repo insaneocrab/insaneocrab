@@ -11,10 +11,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Security Automation with Shuffle SOAR         | Coming Soon                |
-| Incident Response Planning and Execution      | Coming Soon                |
-| Case Management with TheHive                  | Coming Soon                |
-| Scripting and Automation for Threat Management| Coming Soon                |
+| Security Automation with Shuffle SOAR         |<a href="https://github.com/insaneocrab/SOC_Automation_Project">SOC Automation Project</a>|
+| Incident Response Planning and Execution      |<a href="https://github.com/insaneocrab/SOC_Automation_Project">SOC Automation Project</a>|
+| Case Management with TheHive                  |<a href="https://github.com/insaneocrab/SOC_Automation_Project">SOC Automation Project</a>|
+| Scripting and Automation for Threat Management|<a href="https://github.com/insaneocrab/SOC_Automation_Project">SOC Automation Project</a>|
 | Coming Soon                                   | Coming Soon                |
 | Coming Soon                                   | Coming Soon                |
 
