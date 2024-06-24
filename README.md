@@ -17,6 +17,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Scripting and Automation for Threat Management             |<a href="https://github.com/insaneocrab/SOC_Automation_Project">SOC Automation Project</a>|
 | Collecting and Analyzing data with Splunk                  |<a href="https://github.com/insaneocrab/Active_Directory_Project">Active Directory Project</a>|
 | Recognizing and responding to threats with Atomic Red Team |<a href="https://github.com/insaneocrab/Active_Directory_Project">Active Directory Project</a>|
+| Security Automation with Tines                             |<a href="https://github.com/insaneocrab/SOAR_EDR_Project">SOAR EDR Project</a>|
+| Building Workflows with LimaCharlie                        |<a href="https://github.com/insaneocrab/SOAR_EDR_Project">SOAR EDR Project</a>|
+
 ## Tools
 
 ### Network
@@ -44,3 +47,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 - <a href="https://github.com/insaneocrab/SOC_Automation_Project">SOC Automation Project</a>
 - <a href="https://github.com/insaneocrab/Active_Directory_Project">Active Directory Project</a>
+- <a href="https://github.com/insaneocrab/SOAR_EDR_Project">SOAR EDR Project</a>
