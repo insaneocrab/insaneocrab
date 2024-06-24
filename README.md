@@ -9,15 +9,14 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Security Automation with Shuffle SOAR         |<a href="https://github.com/insaneocrab/SOC_Automation_Project">SOC Automation Project</a>|
-| Incident Response Planning and Execution      |<a href="https://github.com/insaneocrab/SOC_Automation_Project">SOC Automation Project</a>|
-| Case Management with TheHive                  |<a href="https://github.com/insaneocrab/SOC_Automation_Project">SOC Automation Project</a>|
-| Scripting and Automation for Threat Management|<a href="https://github.com/insaneocrab/SOC_Automation_Project">SOC Automation Project</a>|
-| Coming Soon                                   | Coming Soon                |
-| Coming Soon                                   | Coming Soon                |
-
+| Skill                                                      | Associated Project         |
+|------------------------------------------------------------|----------------------------|
+| Security Automation with Shuffle SOAR                      |<a href="https://github.com/insaneocrab/SOC_Automation_Project">SOC Automation Project</a>|
+| Incident Response Planning and Execution                   |<a href="https://github.com/insaneocrab/SOC_Automation_Project">SOC Automation Project</a>|
+| Case Management with TheHive                               |<a href="https://github.com/insaneocrab/SOC_Automation_Project">SOC Automation Project</a>|
+| Scripting and Automation for Threat Management             |<a href="https://github.com/insaneocrab/SOC_Automation_Project">SOC Automation Project</a>|
+| Collecting and Analyzing data with Splunk                  |<a href="https://github.com/insaneocrab/Active_Directory_Project">Active Directory Project</a>|
+| Recognizing and responding to threats with Atomic Red Team |<a href="https://github.com/insaneocrab/Active_Directory_Project">Active Directory Project</a>|
 ## Tools
 
 ### Network
@@ -44,4 +43,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 - <a href="https://github.com/insaneocrab/SOC_Automation_Project">SOC Automation Project</a>
-- Coming Soon
+- <a href="https://github.com/insaneocrab/Active_Directory_Project">Active Directory Project</a>
